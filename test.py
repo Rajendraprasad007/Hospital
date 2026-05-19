@@ -3,4 +3,4 @@ string_value = input()
 if string_value == string_value[::-1]:
     print("Polidrom")
 else:
-    print("Not a polindrom")
+    print("Not a change 1")
